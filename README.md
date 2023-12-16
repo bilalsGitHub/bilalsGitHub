@@ -1,4 +1,4 @@
-![image](https://github.com/bilalsGitHub/bilalsgithub/assets/99120420/46583832-6376-446a-8e25-2c7a25646505)<h1 align="center">Hi 👋, I'm Bilal</h1>
+<h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">👋 Hey, I'm Bilal, a student-turned-self-taught React developer! 💻✨ Crafting cool projects and embracing the coding journey. 🚀 Let's connect, share ideas, and inspire each other! 🔥👨‍💻 #ReactDeveloper #StudentCoder #CodeJourney</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
