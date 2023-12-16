@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">👋 Hey, I'm Bilal, a student-turned-self-taught React developer! 💻✨ Crafting cool projects and embracing the coding journey. 🚀 Let's connect, share ideas, and inspire each other! 🔥👨‍💻 #ReactDeveloper #StudentCoder #CodeJourney</h3>
 
-<img align="right" alt="coding" width="400" height="200" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="bilalsgithub" /> </p>
 
